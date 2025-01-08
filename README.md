@@ -2,7 +2,7 @@
 This repository is for beginners who want to code PHP as a backend programming language, it has all you need to get started!
 
 It has a small admin panel where you can manipulate your own register or login details
-Each file has comments, it  tells you about the operation performed and why that operation was performed 
+Each file has comments, it  tells you about the operation performed and why that operation was performed. Down all the php files with this readme file for assistance 
 
 To create your own database pls follow these steps otherwise you are just on your own!
 -start up Xamp as your localhost or local machine
