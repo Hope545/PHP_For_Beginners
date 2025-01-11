@@ -160,13 +160,9 @@ if($fetchUser->rowCount() > 0){
             </p>
         </div>
 
-        <a href="logout.php?id=<?php if ($fetchUser->rowCount() > 0) {?>
+        <a href="logout.php<?php if ($fetchUser->rowCount() > 0) {?>
 
-            <?php echo $userId ?>
-
-            <?php }else{ ?>
-                
-            <?php } ?>
+            <?php echo "?id=" . $userId }else{ echo "";} ?>
             
             ">LOGOUT</a> 
         <a href="view.php">VIEW YOUR DATABASE</a>
