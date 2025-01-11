@@ -24,3 +24,7 @@ if(isset($_GET['id'])){
         header("location: login.php");
     }
 }
+else{
+        // redirecting the use to login page
+        header("location: login.php");
+}
