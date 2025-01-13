@@ -22,6 +22,7 @@ How to navigate through the webpages to get a feel of the backend you will be us
 - You can can make reference to the file to see the code structure and how it was designed.
 
 
+NB: you can use the database.sql file to create your database if you know how to but if you are an absolute beginner follow the steps and if you encounter any difficulty, leave me a message
 
 
 Enjoy!
