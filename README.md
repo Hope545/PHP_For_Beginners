@@ -2,7 +2,7 @@
 This repository is for beginners who want to code PHP as a backend programming language, it has all you need to get started!
 
 It has a small admin panel where you can manipulate your own register or login details
-Each file has comments, it  tells you about the operation performed and why that operation was performed. Down all the php files with this readme file for assistance 
+Each file has comments, it  tells you about the operation performed and why that operation was performed. Download all the php files with this readme file for assistance 
 
 To create your own database pls follow these steps otherwise you are just on your own!
 -start up Xamp as your localhost or local machine
@@ -16,7 +16,7 @@ To create your own database pls follow these steps otherwise you are just on you
 
 
 How to navigate through the webpages to get a feel of the backend you will be using
-- Open ONLY the file named "register.php" in your browser using the link "http://localhost/START_PHP/register.php" in a new tab 
+- Open ONLY the file named "register.php" in your browser using the link "http://localhost/yourFolderName/register.php" in a new tab 
 - This will lanch the register page for you to navigate through the the entire website
 - NB: fill the register form> login form> then it takes you automatically ot the index.php page for a suprise which awaits you there😁 and you will find the "view database" button where you can see your own admin panel!
 - You can can make reference to the file to see the code structure and how it was designed.
